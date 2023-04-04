@@ -7,4 +7,8 @@ clickhouse:
 vector
   hosts:
     vector-01:
-      ansible_host:
+      ansible_host: IP
+Lighthouse
+  hosts:
+    lighthouse-01
+      ansible_host: IP
