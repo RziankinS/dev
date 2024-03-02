@@ -56,7 +56,7 @@ Playbook устанавливает и производит настройки �
 ```
 Запустить playbook с флагом `--check`
 ```
-![2](https://github.com/RziankinS/devops-netology/blob/ee912497f08a605c2d373644cd943525561f488d/screen/ansible-lint.png)
+![2](https://github.com/RziankinS/devops-netology/blob/main/screen/ansible-playbook%20--check.png)
 ## Задача 4
 ```
 Запустить playbook с флагом `--diff`
