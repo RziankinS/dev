@@ -41,3 +41,4 @@ plugin: local
 ## Задача 10; 11
 ![7](https://github.com/RziankinS/devops-netology/blob/main/screen/7.png)
 
+
