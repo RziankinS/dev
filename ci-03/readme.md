@@ -21,9 +21,7 @@
     [`maven-metadata.xml`](https://github.com/RziankinS/dev/blob/4ef5357f3ac4e43095858dafc29c78e6850fcf28/ci-03/maven-metadata.xml)
 
 
-### Maven
-
-### Подготовка к выполнению
+## Maven
 
 1. Версия mvn
 
@@ -36,13 +34,5 @@
 3. Исправленный pom.xml:
    
    [pom.xml](https://github.com/RziankinS/dev/blob/0ede32c99cc98d50d49e96b5938616a49d939954/ci-03/pom.xml)  
-   
-
-### Основная часть
-
-1. Поменяйте в `pom.xml` блок с зависимостями под ваш артефакт из первого пункта задания для Nexus (java с версией 8_282).
-2. Запустите команду `mvn package` в директории с `pom.xml`, ожидайте успешного окончания.
-3. Проверьте директорию `~/.m2/repository/`, найдите ваш артефакт.
-4. В ответе пришлите исправленный файл `pom.xml`.
-
+ 
 ---
