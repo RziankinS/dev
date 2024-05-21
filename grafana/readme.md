@@ -6,6 +6,8 @@
 ## Задание 2
 
 ![2](https://github.com/RziankinS/devops-netology/blob/e89839aa8a9ccfc1424399556b2eb4fd96bd054a/screen/grafana/dashboard.png)
+
+### Используемые promql-запросы:
 ```
 "node_filesystem_avail_bytes"  -  количество места на файловой системе
 "node_filesystem_avail_bytes{device="/dev/nvme1n1p2", fstype="ext4", instance="nodeexporter:9100", job="nodeexporter", mountpoint="/"}" - свободное место по кокретному диску
